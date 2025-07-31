@@ -13,4 +13,4 @@ A Streamlit web app to visualize and analyze household energy consumption data.
 ## Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run Smart_Energyproject/app.py
